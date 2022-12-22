@@ -14,7 +14,7 @@ that explain the majority of readmission rates at our hospital.
 3.  Data is cleaned, outliers > 3 standard deviations removed from dataset.
 4.  PCA is performed to identify the number of applicable principal components.
 5.  PCs with eigenvalues > 1 are considered applicable.
-6.   
+
 ### Table of Contents
 1.  License --- GNU Affero General Public License v3.0. 
 3.  PCA-analysis.pdf --- Full written analysis of this PCA project.
