@@ -22,12 +22,13 @@ that explain the majority of readmission rates at our hospital.
 5.  PCA-notebook-pdf.pdf --- PDF copy of my JupyterNotebook, with all outputs visualized.
 
 ### Tools Used
-Python
-JupyterLab
-Matplotlib.pyplot
-pandas
-numpy
-seaborn
-missingno
-sklearn.preprocessing
-sklearn.decomposition
+1.  Python
+2.  JupyterLab
+3.  Matplotlib.pyplot
+4.  pandas
+5.  numpy
+6.  seaborn
+7.  missingno
+8.  sklearn.preprocessing
+9.  sklearn.decomposition
+
